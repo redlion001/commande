@@ -332,27 +332,7 @@ background-color: rgba(0,0,0,0.8);
 }
 
 
-.text {
-  color: #f2f2f2;
-  font-size: 26px;
-  padding: 12px 12px;
-  position: absolute;
-  top: 10%;
-  width: 28%;
-  right: 38%;
-  text-align: center;
-  font-family: 'Rubik', sans-serif;
-  cursor: pointer;
-  background-color: #333333;
 
-}
-
-
-
-.fade {
-animation-name: fade;
-animation-duration: 1.5s;
-}
 
 @keyframes fade {
 from {opacity: .4}
@@ -658,7 +638,6 @@ margin-top: 5%;
     padding: 0.2rem 0.4rem;
     font-size: 0.875em;
     color: #fff;
-    background-color: #212529;
     border-radius: 0.2rem;
   }
   kbd kbd {
